@@ -18,7 +18,7 @@ Step 4: Change Fieldtrip file path in example_code_pac.m
 ```
 addpath /my fieldtrip software location here/fieldtrip folder name
 ```
-Step 4: Change scripts file path in example_code_pac.m
+Step 4: Change scripts file path in example_itpc_github.m
 ```
 path(path,genpath('my itpc scripts here/my scripts folder name'));
 ```
