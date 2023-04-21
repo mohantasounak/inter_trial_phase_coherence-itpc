@@ -1,7 +1,7 @@
 # itpc
 calculates inter-trial phase coherence for neural data
 
-This script (tested on Matlab 2018a) uses the Fieldtrip toolbox (Oostenveld et al. 2011), Analysis pipeline adapted from Mike X Cohen book and Fieldtrip software and https://github.com/tortlab
+This script (tested on Matlab 2018a) uses the Fieldtrip toolbox (Oostenveld et al. 2011), Analysis pipeline adapted from Mike X Cohen book and Fieldtrip software.
 
 # Installation
 Step 1: Download Fieldtrip from https://www.fieldtriptoolbox.org/download/
