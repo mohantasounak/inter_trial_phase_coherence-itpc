@@ -18,11 +18,11 @@ Step 4: Change Fieldtrip file path in example_code_pac.m
 ```
 addpath /my fieldtrip software location here/fieldtrip folder name
 ```
-Step 4: Change scripts file path in example_itpc_github.m
+Step 5: Change scripts file path in example_itpc_github.m
 ```
 path(path,genpath('my itpc scripts here/my scripts folder name'));
 ```
-Step 5: Change user defined inputs and run itpc func
+Step 6: Change user defined inputs and run itpc func
 
 ```
 config = [];
